@@ -50,5 +50,9 @@ Assignment 5 = 4p
 
 [Link to Assignments](https://users.metropolia.fi/~mirohi/WebOhjelmointi/Week2/Dom/)
 
+### Event handling
 
+Assignment 1 = 12p
+
+Assignment 2 =
 
