@@ -35,3 +35,20 @@ Assignment 6 = 6p
 
 [Link to Assignments](https://users.metropolia.fi/~mirohi/WebOhjelmointi/Week2/Arrays_and_functions/)
 
+
+### Dom
+
+Assignment 1 = 4p
+
+Assignment 2 = 4p
+
+Assignment 3 = 5p
+
+Assignment 4 = 5p
+
+Assignment 5 = 4p
+
+[Link to Assignments](https://users.metropolia.fi/~mirohi/WebOhjelmointi/Week2/Dom/)
+
+
+
