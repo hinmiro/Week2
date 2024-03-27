@@ -54,5 +54,7 @@ Assignment 5 = 4p
 
 Assignment 1 = 12p
 
-Assignment 2 =
+Assignment 2 = 12p
+
+[Link to Assignments](https://users.metropolia.fi/~mirohi/WebOhjelmointi/Week2/Event_handling/)
 
