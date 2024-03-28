@@ -58,3 +58,16 @@ Assignment 2 = 12p
 
 [Link to Assignments](https://users.metropolia.fi/~mirohi/WebOhjelmointi/Week2/Event_handling/)
 
+### Ajax
+
+Assignment 1 = 2p
+
+Assignment 2 = 3p
+
+Assignment 3 = 4p
+
+Assignment 4 = 5p
+
+Assignment 5 = 10p
+
+[Link to Assignments]()

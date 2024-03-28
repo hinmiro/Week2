@@ -1,6 +1,6 @@
 body {
-  background-color: #f0f0f0;
-  font-family: sans-serif;
+  background-color: lightsteelblue;
+  font-family: "Chakra Petch Light", Arial, sans-serif;
   margin: 0;
   padding: 0;
 }
@@ -13,11 +13,11 @@ table {
 }
 
 th {
-  background-color: #f0f0f0;
+  background-color: lightgoldenrodyellow;
   border-bottom: 1px solid #ccc;
-  font-weight: normal;
-  padding: 0.5em 1em;
+  padding: .5em 1em;
   text-align: left;
+  font-weight: bold;
 }
 
 td {
@@ -48,6 +48,10 @@ td:hover {
 }
 
 .modal {
-  background-color: lightcyan;
+  background-color: lightgrey;
+  border-start-start-radius: 50px;
+  border-start-end-radius: 50px;
+  border-style: ridge;
+  box-shadow: 0 0 150px 10px black;
 }
 
