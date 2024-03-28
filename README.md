@@ -70,4 +70,8 @@ Assignment 4 = 5p
 
 Assignment 5 = 10p
 
-[Link to Assignments]()
+[Link to Assignments](https://users.metropolia.fi/~mirohi/WebOhjelmointi/Week2/Ajax/)
+
+### Points
+
+Added points = 113
